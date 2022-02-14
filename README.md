@@ -8,8 +8,8 @@ Progettare le reti a partire da modelli più astratti (EPC, BPMN), utilizzando
 le tecniche di trasformazione viste nel corso indicando quali tecniche
 sono state impiegate e perch´e.
 Nel presentare una workflow net, illustrarne le caratteristiche (invarianti,
-s-components, se `e free-choice, se `e well-handled, se `e safe,...) e descrivere
-le caratteristiche del grafo di raggiungibilit`a (quanti vertici, quanti archi, se
+s-components, se è free-choice, se è well-handled, se è safe,...) e descrivere
+le caratteristiche del grafo di raggiungibilità (quanti vertici, quanti archi, se
 contiene cicli,...).
 Per lo sviluppo di workflow module, verificare preventivamente che togliendo
 le piazze di input / output dell’interfaccia (e gli archi incidenti su
@@ -24,7 +24,7 @@ progettati e, opzionalmente, le checklist di analisi. Le checklist (Microsoft
 Forms) possono essere compilate e inviate direttamente online, oppure in
 formato .pdf.
 
-## Scuola di recitazione
+## Testo del progetto: Scuola di recitazione
 
 Si consideri lo scenario di una scuola di recitazione che debba gestire le
 richieste degli allievi. L’allievo contatta la scuola e riceve una lista dei corsi
